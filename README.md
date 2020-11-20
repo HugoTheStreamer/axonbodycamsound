@@ -3,7 +3,7 @@
 A simple HTML and JavaScript file that makes you able to run a bodycam sound during your stream.
 
 # How to Install
-This guide will show how to install and setup these files for Streamlabs OBS. It goes the same for OBS. Any other software is not explained in this guide.
+This guide will show how to install and setup these files for Streamlabs OBS. It goes the same for OBS Studio. Any other software is not explained in this guide but should work with these files.
 
 1. Extract the ZIP File 
 2. Drag the AxonCam Sound Folder to anywhere you want to have it
